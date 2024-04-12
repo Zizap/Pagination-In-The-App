@@ -1,4 +1,4 @@
-# Example Project Rewritten with Paging3 Library
+# Example Project Revamped for Paging3 Library
 This repository is created to demonstrate the process of rewriting a multi-module Kotlin project to use the Paging3 library for data pagination. The project implements clean architecture and the MVVM pattern.
 
 ## Goal
